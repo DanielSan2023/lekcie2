@@ -38,7 +38,7 @@ public class Main {
 
 //        System.out.println(computer5.isCompanyComputer());
         computerList.remove(2);
-        System.out.println("Pocitacov je v seznami:"+computerList.size());
+                System.out.println("Pocitacov je v seznami:"+computerList.size());
         System.out.println("-----------------------------");
         System.out.println(computerList);
         System.out.println("------------------------------");
