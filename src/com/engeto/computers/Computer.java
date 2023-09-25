@@ -21,9 +21,7 @@ public class Computer {
 
     }
 
-    public Computer(boolean isCompanyComputer) {
-        this.isCompanyComputer = isCompanyComputer;
-    }
+
 
     public Computer(String model, double weight, double diagonalOfMonitor, boolean isCompanyComputer, boolean isNotebook) {
         this.model = model;
